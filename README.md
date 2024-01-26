@@ -1,16 +1,11 @@
-# lf
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Lost-and-Found-Flutter-app
+![login Page authenticate with firebase ](assets/login_page.png)
+![Register Page authenticate with firebase ](assets/register_page.png)
+![Forgot Password sends link by using email ](assets/Password_reset.png)
+![Update password ](assets/change_password.png)
+![Home Page ](assets/home_page.png)
+![Report found item  ](assets/found_form.png)
+![Report lost item ](assets/lost_form.png)
+![Edit user Profile ](assets/user_details.png)
+![Display all user ](assets/user_list.png)
+![chat page](assets/chat_page.png)
